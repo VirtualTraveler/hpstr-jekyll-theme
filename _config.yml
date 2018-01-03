@@ -8,7 +8,6 @@ words_per_minute: 200
 # url: http://virtualtravelog.net
 url:  http://www.virtualtravelog.net
 
-
 # Owner/author information
 owner:
   name:           John R. Harris
@@ -46,6 +45,7 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
 sass:
   sass_dir: _sass
   style: compressed
@@ -93,6 +93,5 @@ exclude:
   - package.json
   - spec
   - tmp
-plugins:
-  - jekyll-redirect-from
+
 
