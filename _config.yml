@@ -93,6 +93,6 @@ exclude:
   - package.json
   - spec
   - tmp
-  plugins:
+plugins:
   - jekyll-redirect-from
 
