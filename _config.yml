@@ -8,8 +8,6 @@ words_per_minute: 200
 # url: http://virtualtravelog.net
 url:  http://www.virtualtravelog.net
 
-plugins:
-  - jekyll-redirect-from
 
 # Owner/author information
 owner:
@@ -95,3 +93,6 @@ exclude:
   - package.json
   - spec
   - tmp
+plugins:
+  - jekyll-redirect-from
+
