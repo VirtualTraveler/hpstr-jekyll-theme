@@ -4,6 +4,9 @@ title: "Linksys BEFW11S4 Wireless-B Broadband Router Problems – Low Reliabilit
 description: "Linksys BEFW11S4 Wireless-B Broadband Router Problems – Low Reliability and Poor Fault Tolerance"
 tags: [technology, review, networks]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000051.html
+  - /entries/2003/11/linksys_befw11s4_wirelessb_broadband_router_problems_low_reliability_and_poor_fault_tolerance.html
 ---
 
 ## Background

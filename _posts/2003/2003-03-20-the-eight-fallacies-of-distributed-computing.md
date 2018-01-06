@@ -4,6 +4,9 @@ title: "The Eight Fallacies of Distributed Computing"
 description: "The Eight Fallacies of Distributed Computing"
 tags: [networks, system design]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000021.html
+  - /entries/2003/03/the_eight_fallacies_of_distributed_computing.html
 ---
 [L. Peter Deutsch](https://en.wikipedia.org/wiki/L_Peter_Deutsch) first published the “8 Fallacies of Networking” internally while working at Sun Labs in 1991-92. This is a great list of the kind of wishful thinking that clouds so much system design.
 

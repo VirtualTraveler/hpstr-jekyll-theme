@@ -4,6 +4,9 @@ title: "The Emerging Science of Food Webs"
 description: "The Emerging Science of Food Webs"
 tags: [complexity, emergence, evolution, networks]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000018.html
+  - /entries/2003/04/the_emerging_science_of_food_webs.html
 ---
 This diagram shows a food web, The nodes are species and the lines show predator-prey relationships between the species. Species at higher [trophic](http://www.dictionary.com/browse/trophic) levels eat those lower down in the web. This particular food web is for Little Rock Lake in Wisconsin and was produced by [Neo D. Martinez](http://thecity.sfsu.edu/~wow/NeoMartinez.html) of San Francisco State University, [Romberg Tiburon Center for Environmental Studies](http://rtc.sfsu.edu/).
 

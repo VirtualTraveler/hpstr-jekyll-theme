@@ -7,8 +7,9 @@ modified: 2017-01-07
 image:
   feature: /2004-02-Bush_Differential-Analyzer.png
   thumb: /2004-02-Bush_Differential-Analyzer200w.png
-
-
+redirect_from: 
+  - /entries/000059.html
+  - /entries/2004/02/vannevar_bush_and_the_limits_of_prescience.html
 ---
 Today [Vannevar Bush](http://www.ibiblio.org/pioneers/bush.html) (rhymes with achiever) is often remembered for his July 1945 Atlantic Monthly article [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) in which he describes a hypothetical machine called a Memex. This machine contained a large indexed store of information and allowed a user to navigate through the store using a system similar to hypertext links. At the time of writing his essay Bush knew more about the state of technology development in the US than almost any other person. During the war, he was Roosevelt’s chief adviser on military research. He was responsible for many war time research projects including Radar, the Atomic Bomb, and the development of early Computers. If anyone should ever have been capable of predicting the future it was Vannevar Bush in 1945. He is an almost unprecedented test case for the art of prediction. Unlike almost anyone else before or since Bush was actually in possession of ALL the facts – as only the head of technology research in a country at war could be.
 

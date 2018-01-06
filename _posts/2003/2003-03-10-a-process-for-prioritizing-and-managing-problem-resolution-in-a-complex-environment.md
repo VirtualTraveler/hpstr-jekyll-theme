@@ -3,6 +3,9 @@ layout: post
 title: "A Process for Prioritizing and Managing Problem Resolution in a Complex Environment"
 description: "A Process for Prioritizing and Managing Problem Resolution in a Complex Environment"
 tags: [system design, process, strategy]
+redirect_from: 
+  - /entries/000023.html
+  - /entries/2003/03/a_process_for_prioritizing_and_managing_problem_resolution_in_a_complex_environment.html
 modified: 2016-12-23
 ---
 Just because you can make a decision or solve a problem does not mean you should. There are times when it’s better to delay until the last possible moment, others when its best to go half way and stop, and of course times when action must be taken immediately. Recognizing the best way to handle any given situation is fundamental when handling large numbers of problems. Recently I’ve been working with a client on defining a change management process for a large system and have been thinking about these issues.

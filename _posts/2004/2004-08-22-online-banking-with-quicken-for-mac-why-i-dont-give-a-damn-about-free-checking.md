@@ -4,6 +4,9 @@ title: "Online Banking with Quicken for Mac. Why I don’t give a damn about fre
 description: "Online Banking with Quicken for Mac. Why I don’t give a damn about free checking"
 tags: [review, technology, economics, strategy]
 modified: 2017-06-15
+redirect_from: 
+  - /entries/000064.html
+  - /entries/2004/08/online_banking_with_quicken_for_mac_why_i_dont_give_a_damn_about_free_checking.html
 ---
 
 One day towards the end of 2000 my wife finally lost her financial patience with me. As she threw a pile of bills and receipts at me she screamed “That’s it! I’m never doing the accounts or paying the bills again. You never collect receipts, you never write a memo in the checkbook, and your work expenses are impossible to understand!” She then stormed out of the room. I was in no doubt that she meant it and she has remained free of the household accounting burden ever since. I unfortunately have not. It is true that until that day I had never balanced a checkbook in my life and habitually threw bank balances in the trash without even opening them – another contributing factor to my wife’s rant. In fact the only time I ever knew my bank balance was when the ATM refused to dispense cash. So it was with great trepidation that I began my fiscally responsible life. I figured that as I had designed and built large financial software systems I ought to be able to use a small one. So after some research I selected Quicken as they had a large share of the market and had a version for Mac.

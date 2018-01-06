@@ -9,6 +9,9 @@ image:
   thumb: /2003-09-Cyril-Harris200w.png
   credit: "Commonwealth War Graves Commission"
   creditlink: http://www.cwgc.org/find-a-cemetery/cemetery/29104/GLAGEON%20COMMUNAL%20CEMETERY%20EXTENSION
+redirect_from: 
+  - /entries/000046.html
+  - /entries/2003/09/cyril_harris_189891918_rifleman_r9237_9th_battalion_kings_royal_rifle_corps.html
 ---
 <div align="center">
 {% capture images %}

@@ -4,6 +4,9 @@ title: "UN Commission on Human Rights Loses All Credibility"
 description: "UN Commission on Human Rights Loses All Credibility"
 tags: [globalization, politics]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000037.html
+  - /entries/2003/07/un_commission_on_human_rights_loses_all_credibility.html
 ---
 On 24 July 2003 [Reporters Without Borders](https://rsf.org/en) was suspended from the [United Nations Human Rights Commission](http://www.ohchr.org/EN/HRBodies/CHR/Pages/CommissionOnHumanRights.aspx) for one year. For details of why this injustice happened see my previous entry [Farce at the United Nations Human Rights Commission](/2003/06/farce-at-the-united-nations-human-rights-commission/). Reporters Without Borders have published a press release and a report on the commission’s accelerating decline, entitled UN Commission on Human Rights Loses all Credibility. Wheeling and dealing, incompetence and non-action.
 

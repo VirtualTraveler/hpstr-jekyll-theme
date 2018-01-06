@@ -4,6 +4,9 @@ title: "A Solution for Managing Timezones, Times, and Dates in International Int
 description: "When designing Internet based systems time presentation, manipulation and management can rapidly become a major headache. A Solution for Managing Timezones, Times, and Dates in International Internet Systems is not obvious."
 tags: [system design, globalization]
 modified: 2016-12-23
+redirect_from: 
+  - /entries/000031.html
+  - /entries/2002/12/a_solution_for_managing_timezones_times_and_dates_in_international_internet_systems.html
 ---
 The measurement and management of time is something most people give little thought to. But when designing Internet based systems time presentation, manipulation and management can rapidly become a major headache. Just when you think youve got it nailed some other unanticipated problem arises. The regular failure of systems designers to get this right is a classic example of the principle of inappropriate parsimony.
 

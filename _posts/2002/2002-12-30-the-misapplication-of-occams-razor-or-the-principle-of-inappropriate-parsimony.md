@@ -4,6 +4,9 @@ title: "The Misapplication of Occam’s Razor or the Principle of Inappropriate 
 description: "In practices solutions based on these simple, low fidelity, models fail to handle the problem completely and often causes a whole series of new problems."
 tags: [system design, failure]
 modified: 2016-12-22
+redirect_from: 
+  - /entries/000032.html
+  - /entries/2002/12/the_misapplication_of_occams_razor_or_the_principle_of_inappropriate_parsimony.html
 ---
 There is a class of design problem that can mislead the unwary systems designer, myself included, although I am getting better at identifying the warning signs. These design problems require the designer to base the solution on a conceptual model of a real world system or process. It often appears that a simple conceptual model that approximates to the real world system will suffice. In practices solutions based on these simple, low fidelity, models fail to handle the problem completely and often causes a whole series of new problems. Redesigning the solution to handle these exceptions only produces more problems that require more redesign and so on. If the hapless designer persists s/he will often go through several complete redesigns before getting to a solution that finally solves the problem by modeling the real world system with a high degree of fidelity. This iterative redesign process is typical of this class of design problem. Some might say that only poor designers are ever trapped in this way, others will say these solutions are anti patterns. But I think there is more too it.
 

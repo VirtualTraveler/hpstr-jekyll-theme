@@ -4,6 +4,9 @@ title: "The Biomorph Personal Desk"
 description: "The Biomorph Personal Desk"
 tags: [review]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000048.html
+  - /entries/2003/10/the_biomorph_personal_desk.html
 ---
 <div align="center">
 {% capture images %}

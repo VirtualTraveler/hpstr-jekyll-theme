@@ -4,6 +4,9 @@ title: "Ontology Review 1. The NHS Common Basic Specification. Why top level Ont
 description: "Ontology Review 1. The NHS Common Basic Specification. Why top level Ontologies don’t work."
 tags: [ontology, system design]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000058.html
+  - /entries/2004/01/ontology_review_1_the_nhs_common_basic_specification_why_top_level_ontologies_dont_work.html
 ---
 This is the first of an occasional series of reviews I intend to write to illustrate some important general traits of ontologies. In each review I will dissect an ontology and examine why it succeeded or failed. In this essay I mention concepts that are defined in my previous essay. [Judging the likely success of an ontology](2004/01/judging-the-likely-success-of-an-ontology/). This first review covers an ontology called the Common Basic Specification (CBS) that was designed in the late 1980s to bring much needed standardization and rationalization to the fragmented information management processes of the British National Health Service (NHS). It persisted in various forms until the late 1990′s when it was finally abandoned. This is my explanation of why it failed.
 

@@ -4,6 +4,9 @@ title: "Comparing the 2001 World Trade Center Attack with the 1906 San Francisco
 description: "Comparing the 2001 World Trade Center Attack with the 1906 San Francisco Earthquake"
 tags: [complexity, visualization]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000045.html
+  - /entries/2003/09/comparing_the_2001_world_trade_center_attack_with_the_1906_san_francisco_earthquake.html
 ---
 [RMS](http://www.rms.com/) (Risk Management Solutions) is a small US company that specializes in catastrophe models for the insurance industry. These models cover natural perils such as earthquakes, hurricanes, and other windstorms. In 2002 RMS produced a report entitled Accessing Workers Comp Risk from Earthquakes ([updated version here](/content/2003/eq_1906_san_francisco_eq.pdf)). What if the 1906 Great San Francisco Earthquake occurred today. The point of this report was to draw the attention of catastrophe risk managers in the insurance industry to the potentially high costs of workers compensation in large catastrophes. It also makes fairly sobering reading for people who work in San Francisco.
 

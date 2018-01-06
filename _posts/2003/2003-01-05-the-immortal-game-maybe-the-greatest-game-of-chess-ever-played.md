@@ -4,6 +4,9 @@ title: "The Immortal Game – Maybe the Greatest Game of Chess Ever Played"
 description: "The Immortal Game. Played in 1851 between Adolf Anderssen and Lionel Kieseritzky."
 tags: [complexity, chess]
 modified: 2016-12-23
+redirect_from: 
+  - /entries/000030.html
+  - /entries/2003/01/the_immortal_game_maybe_the_greatest_game_of_chess_ever_played.html
 ---
 In July 1851 two mathematics teachers, Prof. Adolf Anderssen (1818 -1879) from Breslau, and Lionel Kieseritzky (1806-1853)  from what is now Estonia, played a game of chess at Simpsons on the Strand, a London chess Salon. The game was so startling in its brlliance that in 1855 it was named The Immortal Game by the Austrian player Ernst Falkbeer. The chess Canon contains very few named games. This game is considered by some to be the greatest ever played. It has been been studied and replayed for over 150 years.
 

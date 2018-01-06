@@ -4,6 +4,9 @@ title: "5 Nines and other Nonsense – Interaction of Quality Attributes in Syst
 description: "Interaction of Quality Attributes in System Design, Availability, Reliability and Recoverability"
 tags: [system design]
 modified: 2016-12-23
+redirect_from: 
+  - /entries/000027.html
+  - /entries/2003/01/5_nines_and_other_nonsense_interaction_of_quality_attributes_in_system_design.html
 ---
 5 Nines is a term used in the computer industry that refers to the 5 nines in 99.999%. This number is about the best odds manufacturers will give that one of their systems will be available at any given moment in time. Of course there are systems with higher availability but they tend to have very expensive multiple redundancy. 5 Nines is the best availability claimed for commercial system, and after all, 99.999% availability is pretty good. 5 Nines translates to a downtime of only 5 minutes a year.
 

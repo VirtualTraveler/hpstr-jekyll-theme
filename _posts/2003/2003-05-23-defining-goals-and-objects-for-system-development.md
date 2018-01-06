@@ -9,6 +9,9 @@ image:
   thumb: /2003-02-Mobile-Lounge200w.png
   credit: Nicholas Chatfield-Taylor
   creditlink: http://www.longnow.org/
+redirect_from: 
+  - /entries/000017.html
+  - /entries/2003/05/defining_goals_and_objectives_for_system_development.html
 ---
 Clearly expressed, goals and objectives are essential prerequisites for successful change management in complex environments. System design, implementation, and commissioning in the broadest sense are classic examples of this type of change. The only rational way of measuring the success of complex systems is to assess the degree to which goals have been achieved by measuring the attainment of objectives.
 

@@ -4,6 +4,9 @@ title: "Unprecedented Phenomena. The Implications of the Oklo Fossil Reactors"
 description: "Unprecedented Phenomena. The Implications of the Oklo Fossil Reactors"
 tags: [science, prediction, history, complexity]
 modified: 2017-06-15
+redirect_from: 
+  - /entries/000062.html
+  - /entries/2004/05/unprecedented_phenomena_the_implications_of_the_oklo_fossil_reactors.html
 ---
 
 When Stephen Hawking said “The only thing nature abhors more than a vacuum is a naked singularity”. He was talking specifically about the laws of physics in relation to black holes. But his observation could equally apply to the body of human knowledge and the existence of unprecedented phenomena. The only thing that drives our desire for knowledge more than a complete absence of information is the presence of a single, undeniable but unprecedented piece of evidence. Such tantalizing evidence demands explanation.

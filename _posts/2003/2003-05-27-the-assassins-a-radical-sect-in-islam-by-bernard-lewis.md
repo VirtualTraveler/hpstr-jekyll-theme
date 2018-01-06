@@ -4,6 +4,9 @@ title: "The Assassins. A Radical Sect in Islam by Bernard Lewis"
 description: "The Assassins. A Radical Sect in Islam by Bernard Lewis"
 tags: [review]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000016.html
+  - /entries/2003/05/the_assassins_a_radical_sect_in_islam_by_bernard_lewis.html
 ---
 <div style="float:left; margin:20px;">
 <p></p>

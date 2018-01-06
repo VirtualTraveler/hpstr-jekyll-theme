@@ -7,6 +7,9 @@ modified: 2016-12-30
 image:
   feature: /2003-08-wright-flyer.png
   thumb: /2003-08-wright-flyer200w.png
+redirect_from: 
+  - /entries/000039.html
+  - /entries/2003/08/the_meaning_of_invention.html
 ---
 I ‘ve been trying to understand what it means to invent something and found this site very useful [Wright Brothers History: The Tale of the Airplane A Brief Account of the Invention of the Airplane](http://www.wright-house.com/wright-brothers/taleplane.html) researched, written, and designed by Gary Bradshaw.
 
