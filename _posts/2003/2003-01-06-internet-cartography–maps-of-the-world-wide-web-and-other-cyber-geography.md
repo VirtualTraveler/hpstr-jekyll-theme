@@ -4,6 +4,9 @@ title: "Internet Cartography – Maps of the World Wide Web and other Cyber Geog
 description: "Internet Cartography, Maps of the World Wide Web and other Cyber Geography"
 tags: [complexity, technology, networks, visualization]
 modified: 2016-12-23
+redirect_from: 
+  - /entries/000029.html
+  - /entries/2003/01/internet_cartography_maps_of_the_world_wide_web_and_other_cyber_geography.html
 ---
 In the Beginning there was one.
 

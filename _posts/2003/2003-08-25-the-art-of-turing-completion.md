@@ -4,9 +4,11 @@ title: "The Art of Turing Completion"
 description: "The Art of Turing Completion"
 tags: [computer history, complexity, emergence]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000041.html
+  - /entries/2003/08/the_art_of_turing_completion.html
 ---
 As I was researching the [invention of the computer](/2003/08/the-first-modern-computer-the-case-for-baby-the-manchester-mk-i-prototype/) I found a few sites that while only tangentially related to the subject at hand were definitely worthy of note.
-
 
 ## XSLT is Turing Complete
 

@@ -7,6 +7,9 @@ modified: 2016-12-23
 image:
   feature: /2003-02-Mobile-Lounge.jpg
   thumb: /2003-02-Mobile-Lounge200w.png
+redirect_from: 
+  - /entries/000024.html
+  - /entries/2003/02/the_mobile_lounges_at_dulles_international_airport.html
 ---
 Recently, I have been traveling to Washington D.C. via [Washington Dulles International Airport](http://www.flydulles.com/iad/airport-overview) and have begun to appreciate the fine architecture of the airport. Built between 1958 and 1966 by the engineering firm of [Amman and Whitney](http://www.ammann-whitney.com/) the terminal building, control tower, and service buildings were designed by Architect [Eero Saarinen](http://www.greatbuildings.com/gbc/architects/Eero_Saarinen.html) who claimed it was “the best thing I have ever done.”
 

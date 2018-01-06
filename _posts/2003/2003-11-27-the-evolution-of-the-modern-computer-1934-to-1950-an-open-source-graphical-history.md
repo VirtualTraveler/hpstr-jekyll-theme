@@ -4,6 +4,9 @@ title: "The Evolution of the Modern Computer (1934 to 1950): An Open Source Grap
 description: "The Evolution of the Modern Computer (1934 to 1950): An Open Source Graphical History"
 tags: [computer history, technology, innovation, visualization]
 modified: 2017-01-03
+redirect_from: 
+  - /entries/000050.html
+  - /entries/2003/11/the_evolution_of_the_modern_computer_1934_to_1950_an_open_source_graphical_history.html
 ---
 Some time between 1934 and 1950 the first modern computer was created. Pinning down exactly when that event occured is not easy. It depends on how you define the term computer and what you think is more important: The concept, the design, the first succesful test, or the first time the machine solved a real problem. In those early days it usually took years for a team to progress from concept through design to working machine. There were many such teams working mainly in the US and UK. These teams competed and cooperated somtimes they shared ideas and designs, and they sent representatives to visit each others laboratories. On one famous occassion in the Summer of 1946 almost all the leaders in the field got together at [the Moore School for an 8 week long series of lectures](/2003/10/the-moore-school-lectures-and-the-british-lead-in-stored-program-computer-development-1946-1953/). In short the story of the emergence of the modern computer is a complex one that involves both direct and indirect contributions from many people.
 

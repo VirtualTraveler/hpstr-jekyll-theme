@@ -4,6 +4,9 @@ title: "Convergent, Iterative Optimization of Solutions – Why Solving some Pro
 description: "Convergent, Iterative Optimization of Solutions – Why Solving some Problems is Easier Said than Done"
 tags: [system design, complexity, process, strategy]
 modified: 2016-12-23
+redirect_from: 
+  - /entries/000025.html
+  - /entries/2003/02/convergent_iterative_optimization_of_solutions_why_solving_some_problems_is_easier_said_than_done.html
 ---
 For some problems the challenge is not to identify the solution. The real challenge is working out how to put the solution in place. Anyone who has setup a theodolite will understand what I mean. The solution is simple to describe. Position a precision optical measuring device so that it is; perfectly level, at a reasonable height for operation and directly above a predefined mark. Sounds easy, but given a tripod and a theodolite most untrained surveyors will take hours and usually give up in frustration. The problem is that there are too many degrees of freedom in the system. Everything is interdependent. Make one small adjustment here and it knocks things way out of whack there!
 

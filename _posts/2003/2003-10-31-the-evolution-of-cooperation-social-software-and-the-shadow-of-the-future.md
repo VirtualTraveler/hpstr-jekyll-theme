@@ -3,6 +3,9 @@ layout: post
 title: "The Evolution of Cooperation – Social Software and the Shadow of the Future"
 description: "The Evolution of Cooperation – Social Software and the Shadow of the Future"
 tags: [review, system design, complexity]
+redirect_from: 
+  - /entries/000049.html
+  - /entries/2003/10/the_evolution_of_cooperation_social_software_and_the_shadow_of_the_future.htmll
 modified: 2016-12-30
 ---
 <div style="float:left; margin:10px;">

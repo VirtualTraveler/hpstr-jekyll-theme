@@ -4,6 +4,9 @@ title: "Judging the likely Success of an Ontology"
 description: "Judging the likely Success of an Ontology"
 tags: [ontology, system design]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000057.html
+  - /entries/2004/01/judging_the_likely_success_of_an_ontology.html
 ---
 The debate about the promised value of the Semantic Web seems to me to be missing a dispassionate examination of the success, or otherwise, of existing ontology based solutions. Clay Shirky is obviously right when he states that [a single monolithic ontology will never work](http://www.shirky.com/writings/semantic_syllogism.html). His critics are equally right when they claim the Semantic web will only work if it is a melange of multiple interoperable Ontologies. What is missing from the debate is a more detailed explanation of what ontologies are good at, how they interoperate, and why systems based on ontologies succeed or fail. From my perspective as a systems designer this last point is the most significant. Debates about theory are nice, but examples of real solutions are more instructive. This essay will begin to examine this question by attempting to define the anatomy of an ontology. I will use this structure in later essays to examine the reasons for success and failure of individual ontologies.
 

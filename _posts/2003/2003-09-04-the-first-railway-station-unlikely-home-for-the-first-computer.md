@@ -4,6 +4,9 @@ title: "The First Railway Station: Unlikely Home for the First Computer"
 description: "The First Railway Station: Unlikely Home for the First Computer"
 tags: [computer history, innovation]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000042.html
+  - /entries/2003/09/the_first_railway_station_unlikely_home_for_the_first_computer.html
 ---
 The Liverpool Street Station in Manchester, England is now part of The museum of Science and Technology. The Station was built in 1830 and is the oldest railway station in the world. On the opposite side of the tracks to the ticketing hall is the world’s first railway warehouse. In this building is a working replica of the worlds first stored program computer, Baby, the Manchester Mk I Prototype.
 

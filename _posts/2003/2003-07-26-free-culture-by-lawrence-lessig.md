@@ -4,6 +4,9 @@ title: "Free Culture by Lawrence Lessig"
 description: "Free Culture by Lawrence Lessig"
 tags: [review, innovation]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000036.html
+  - /entries/2003/07/free_culture_by_lawrence_lessig.html
 ---
 I just watched Lawrence Lessig‘s speech, Free Culturefor a second time. The recording below was made at the [O’Reilly Open Source Convention 2002](http://conferences.oreillynet.com/os2002/) where Lessig delivered the keynote. It is a superb example of a well designed and delivered power point presentation. It is also very persuasive.
 

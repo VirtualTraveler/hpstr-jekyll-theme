@@ -4,6 +4,9 @@ title: "Emergence of Cooperation in Balinese Rice Farming"
 description: "Emergence of Cooperation in Balinese Rice Farming"
 tags: [complexity, emergence]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000035.html
+  - /entries/2003/07/emergence_of_cooperation_in_balinese_rice_farming.html
 ---
 [Cooperation in Balinese Rice Farming](http://samoa.santafe.edu/media/workingpapers/03-05-030.pdf) by J. Stephen Lansing and John H. Miller
 

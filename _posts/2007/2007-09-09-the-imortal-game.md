@@ -4,6 +4,8 @@ title: "The Imortal Game"
 description: "The Imortal Game"
 tags: [complexity, art, strategy, information visualization]
 modified: 2017-07-16
+redirect_from: 
+  - /entries/2007/09/the_immortal_ga.html
 ---
 
 <div align="center">

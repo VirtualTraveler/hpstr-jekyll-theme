@@ -4,6 +4,9 @@ title: "Farce at the United Nations Human Rights Commission"
 description: "Farce at the United Nations Human Rights Commission"
 tags: [human rights, politics]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000014.html
+  - /entries/2003/06/farce_at_the_united_nations_human_rights_commission.html
 ---
 When the new Libyan president of the United Nations Human Rights Commission, Najat Al-Hajjaji, made her inaugural speech at the opening of the 59th session of the Commission in Geneva on 17th March 2003 she was interrupted by six activists from [Reporters Without Borders](https://rsf.org/en) who threw leaflets into the meeting room. (Reporters Without Borders are also known as Reporters san Frontieres or just RSF)
 

@@ -4,6 +4,9 @@ title: "Source Code as History"
 description: "Source Code as History"
 tags: [computer history, technology]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000056.html
+  - /entries/2003/12/source_code_as_history.html
 ---
 When the history of early software development is written it will be a travesty. Few historians will have the ability, and even fewer the inclination, to learn long dead programming languages. History will be derived from the documentation not the source code. Alan Turings perplexed, hand written annotation “How did this happen?” on a cutting of Autocode taped into his [note book](http://www.chstm.manchester.ac.uk/research/nahc/contents/) will remain a mystery.
 

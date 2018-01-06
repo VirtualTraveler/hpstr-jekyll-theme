@@ -4,6 +4,9 @@ title: "The Interaction of Business Policy, Strategy, and Architecture in System
 description: "The Interaction of Business Policy, Strategy, and Architecture in System Design"
 tags: [strategy, system design]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000022.html
+  - /entries/2003/03/the_interaction_of_business_policy_strategy_and_architecture_in_system_design.html
 ---
 Most Software systems are developed by corporations to gain parity with, or advantage over, competitors. These systems are either intended for sale as products or to be used internally but in both cases they are supposed to produce positive business results for the corporation that uses them. As anyone who has ever been involved in the development of software systems will know they often fail to produce a return on investment and sometimes fail to produce any benefit at all. This failure to achieve business value stems partly from difficultly system designers have in tracking the changing relationships between Policy, Strategy, and the Architecture they are responsible for designing.
 

@@ -4,6 +4,9 @@ title: "The Traveler Guitar – An Example of Fitness for Purpose in Product Des
 description: "The Traveler Guitar – An Example of Fitness for Purpose in Product Design"
 tags: [review, technology, capabilities, ]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000019.html
+  - /entries/2003/04/the_traveler_guitar_an_example_of_fitness_for_purpose_in_product_design.html
 ---
 <div align="center">
 {% capture images %}

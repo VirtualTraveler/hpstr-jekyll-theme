@@ -4,6 +4,9 @@ title: "Misinformation and the Evolution of Early Computers"
 description: "Misinformation and the Evolution of Early Computers"
 tags: [computer history, innovation, visualization]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000043.html
+  - /entries/2003/09/misinformation_and_the_evolution_of_early_computers.html
 ---
 Amazing and totally inaccurate!
 

@@ -4,11 +4,13 @@ title: "Software Design Reviews – Lessons Learned and Best Practices"
 description: "Software Design Reviews – Lessons Learned and Best Practices"
 tags: [system design, process, review]
 modified: 2016-12-23
+redirect_from: 
+  - /entries/000028.html
+  - /entries/2003/01/software_design_reviews_lessons_learned_and_best_practices.html
 ---
 Joel Rosi-Schwartz once advised me that if I ever found myself solving the same problem for a third time I should stop and take the opportunity to improve my efficiency by thinking of a better way to do it. Joel was very disciplined about this and over the years had developed a big bag of tricks for solving common problems encountered during systems design and development. In many ways Joel was an inspiration for me and this is one of his traits I have tried to emulate.
 
 In my career I have designed more than a few systems and reviewed the designs for many more. There were times when I reviewed two or three in a week and others when I went 6 months between reviews, but they have never stopped coming. Following Joels advice I have tried to incrementally improving my approach to both designing systems and reviewing others designs by developing a set of aphorisms that remind me what should be present in a good system design.
-
 
 > 1 Everything in moderation and nothing to excess
 

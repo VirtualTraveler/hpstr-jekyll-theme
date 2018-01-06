@@ -4,6 +4,9 @@ title: "Economics and the Internet’s Large-Scale Topology"
 description: "Economics and the Internet’s Large-Scale Topology"
 tags: [globalization, complexity, technology, networks]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000044.html
+  - /entries/2003/09/economics_and_the_internets_largescale_topology.html
 ---
 <div align="center">
 {% capture images %}

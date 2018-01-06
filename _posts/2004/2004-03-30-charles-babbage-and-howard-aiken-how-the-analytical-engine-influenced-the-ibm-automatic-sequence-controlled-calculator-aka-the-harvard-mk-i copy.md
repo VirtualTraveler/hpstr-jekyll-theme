@@ -7,6 +7,9 @@ modified: 2017-06-15
 image:
   feature: /2004-03-ASCC_wide.jpg
   thumb: /2004-03-ASCC_wide.jpg
+redirect_from: 
+  - /entries/000061.html
+  - /entries/2004/03/charles_babbage_and_howard_aiken_how_the_analytical_engine_influenced_the_ibm_automatic_sequence_controlled_calculator_aka_the_harvard_mk_i.html
 ---
 
 > In 1936, [Howard] Aiken had proposed his idea [to build a giant calculating machine] to the [Harvard University] Physics Department, … He was told by the chairman, Frederick Saunders, that a lab technician, Carmelo Lanza, had told him about a similar contraption already stored up in the Science Center attic.

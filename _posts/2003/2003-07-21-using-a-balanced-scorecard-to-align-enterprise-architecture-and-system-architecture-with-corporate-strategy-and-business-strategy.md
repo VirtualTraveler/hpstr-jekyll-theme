@@ -7,6 +7,9 @@ modified: 2016-12-30
 image:
   feature: /2003-07-Metropolis.png
   thumb: /2003-07-Metropolis-200w.png
+redirect_from: 
+  - /entries/000034.html
+  - /entries/2003/07/using_a_balanced_scorecard_to_align_enterprise_architecture_and_system_architecture_with_corporate_strategy_and_business_strategy.html
 ---
 The concept of a balanced scorecard was developed by Dr. Robert S. Kaplan of the Harvard Business School, and Dr. David P. Norton, and is explain in their book [Translating Strategy into Action](https://www.amazon.com/exec/obidos/ASIN/0875846513/virtualtravel-20). The Balanced Scorecard. The basic idea is that the, vision and strategy of an organization can be expressed as a set of goals and their associated objectives, measures, target values and initiatives. I covered [defining goals and objectives for system design](/2003/05/defining-goals-and-objectives-for-system-development/) in a previous article. The Balanced Scorecard approach extends the scope of goals and objectives to the entire enterprise. Originally this approach was suggested as a business-measurement system but it has evolved into a business-management system. By continually measuring progress toward the objectives, the execution of a strategy can be monitored, corrections can be made, risks can be reduced, and the chances of success increased.
 

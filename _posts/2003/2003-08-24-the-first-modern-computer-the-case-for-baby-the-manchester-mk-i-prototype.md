@@ -4,6 +4,9 @@ title: "The First Modern Computer – The Case for Baby, the Manchester Mk I Pro
 description: "The First Modern Computer – The Case for Baby, the Manchester Mk I Prototype"
 tags: [innovation, computer history, technology, system design]
 modified: 2016-12-30
+redirect_from: 
+  - /entries/000040.html
+  - /entries/2003/08/the_first_modern_computer_the_case_for_baby_the_manchester_mk_i_prototype.html
 ---
 Finding an authoritative history of the Computer’s invention is almost impossible. There are several reasons for this problem: People disagree on the meaning of the word “invent”, they also disagree on the meaning of the word “computer”. Finally significant parts of the history were either lost or deliberately concealed and only came to light again in the 1960′s and 70′s. The United States Army was the first organization to stake a claim to the invention of the computer with the [1946 public announcement of the ENIAC (Electronic Numerical Integrator and Computer)](http://www.upenn.edu/computing/printout/archive/v12/4/crackpot.html). It has since become commonly accepted that ENIAC was the worlds first computer when in fact it was not a computer, in the modern sense, at all, and was not even the first of its class.
 
