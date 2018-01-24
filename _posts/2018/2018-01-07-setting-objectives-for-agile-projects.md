@@ -38,7 +38,7 @@ It is easy to communicate the basic principles and practices. It is much harder 
 
 Agile can be employed to evolve better solutions in a rapidly changing environment of shifting goals, objectives, and requirements. But there is more than one reason why a team may lack a clear understanding of what it is trying to achieve. 
 
-When a novice team is uncertain of how to deliver a well understood solution an agile approach forces the team to continually confront their own lack of skill, to fail in small recoverable steps, thus allowing them to succeed in the longer term, if they can learn fast enough. The approach allows managers to keep inexperienced teams on a short leash while they learn how to deliver effectively. Agile is a great way to reduce delivery risk caused by inexperience. Agile creates self-calibrating teams that know the limits of their capabilities.
+When a novice team is uncertain of how to deliver a well understood solution an agile approach forces the team to continually confront their own lack of skill, to fail in small recoverable steps, thus allowing them to succeed in the longer term, if they can learn fast enough. The approach allows investors and other stakeholders to keep inexperienced teams on a short leash while they learn how to deliver effectively. Agile is a great way to reduce delivery risk caused by inexperience. Agile creates self-calibrating teams that know the limits of their capabilities.
 
 Agile forces expert teams to confront their lack of understanding of the complex problems they are trying to solve. Agile helps expert teams explore the problem space by allowing them to innovate in small chunks and  incrementally evolve a solution.   
 
