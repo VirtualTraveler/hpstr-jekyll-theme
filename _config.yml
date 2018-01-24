@@ -40,12 +40,6 @@ timezone:    America/Los_Angeles
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
 sass:
   sass_dir: _sass
   style: compressed
@@ -94,5 +88,9 @@ exclude:
   - spec
   - tmp
 plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
   - jekyll-redirect-from
-
+  - jekyll-seo-tag
